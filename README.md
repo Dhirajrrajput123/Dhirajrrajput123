@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Dhiraj Shankar Dubey</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
+<h3 align="center">A passionate Java back-end developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak7843&label=Profile%20views&color=0e75b6&style=flat" alt="deepak7843" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhirajrrajput123&label=Profile%20views&color=0e75b6&style=flat" alt="Dhirajrrajput123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak7843" alt="deepak7843" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhirajrrajput123" alt="Dhirajrrajput123" /></a> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **MySql**
 
-- 💬 Ask me about **javascript, mongodb, express, react**
+- 💬 Ask me about **javascript, Java, MySql, SB**
 - 👨‍💻 All of my projects are available at https://deepak-s-d-portfolio.netlify.app/
-
-- 📫 How to reach me **deepakshankardubey123@gmail.com**
+<!-- Portfolio part remaining -->
+- 📫 How to reach me **vermadheeraj681@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-  <a href="https://linkedin.com/in/deepak-shankar-dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak shankar dubey" height="30" width="40" /></a>
-<a href="https://twitter.com/@deepakshankard4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@deepakshankard4" height="30" width="40" /></a>
-  
+  <a href="https://www.linkedin.com/in/dhiraj-kumar-154bb324b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhiraj Kumar" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/@deepakshankard4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@deepakshankard4" height="30" width="40" /></a>
+   -->
 
 <!--   
 <a href="https://fb.com/deepakshankar.dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepak shankar dubey" height="30" width="40" /></a> -->
