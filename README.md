@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vermadheeraj681@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DRYccM2mGWqzOGdaem95zbjdDmY24iuU/view?usp=sharing](https://drive.google.com/file/d/1DRYccM2mGWqzOGdaem95zbjdDmY24iuU/view?usp=sharing)
+- 📄 Know about my experiences [https://dhirajrrajput123.github.io/](https://dhirajrrajput123.github.io/)
 
 - ⚡ Fun fact **I think I am funny/serious**
 
