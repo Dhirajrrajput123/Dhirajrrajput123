@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhirajrrajput123" alt="dhirajrrajput123" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **Spring Data JPA | Spring Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhirajrrajput123/Dhirajrrajput123.github.io](https://github.com/Dhirajrrajput123/Dhirajrrajput123.github.io)
 
@@ -14,6 +14,7 @@
 - 📫 How to reach me **vermadheeraj681@gmail.com**
 
 - 📄 Know about my experiences [https://dhirajrrajput123.github.io/](https://dhirajrrajput123.github.io/)
+- 💬 I'm looking collaborate on **Backend Project: Java, MySQL, JDBC,Maven ,Hibernate, Spring, SpringBoot, Spring Data JPA and frontend Project: HTML, CSS, JavaScript**
 
 - ⚡ Fun fact **I think I am funny/serious**
 
