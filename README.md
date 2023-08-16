@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Data JPA | Spring Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dhirajrrajput123/Dhirajrrajput123.github.io](https://github.com/Dhirajrrajput123/Dhirajrrajput123.github.io)
+- 👨‍💻 All of my projects are available at [https://dhirajrrajput123.github.io/](https://dhirajrrajput123.github.io/)
 
 - 💬 Ask me about **JavaScript Java MySQL**
 
